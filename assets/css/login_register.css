@@ -1,0 +1,115 @@
+body {
+	background-image: url(/assets/wild_flowers.png);
+	font-family: sans-serif;
+}
+#header{
+	background-color: #A4A4A4;
+	color:#673F75;
+	padding: 0px 10px 0px 10px;
+	border:hidden;
+	border-radius: 5px;
+	text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.5);
+
+}
+#header h1{
+	display: inline-block;
+	color: #673F75;
+	text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.5);
+}
+#logout{
+	float: right;
+	padding-top: 30px;
+	text-decoration: none;
+	font-weight: bold;
+}
+#title {
+	margin-top: 0px;
+	border-bottom: 1px solid #444444;
+}
+
+#container {
+	background-color: #CCCCCC;
+	width: 700px;
+	margin: 0 auto;
+	border:hidden;
+	border-radius: 5px;
+	padding: 30px;
+}
+
+#register {
+	display: inline-block;
+}
+
+#alerts {
+	height: 20px;
+}
+
+#error {
+	color: red;
+	display: inline-block;
+	vertical-align: top;
+}
+
+	#error p {
+		height: 23px;
+	}
+
+#success {
+	color: green;
+}
+
+#footer {
+	display: block;
+}
+h5{
+	color: red;
+}
+#you
+{
+	color: green;
+}
+table,th,td
+{
+border:1px solid black;
+border-collapse:collapse;
+}
+th,td
+{
+padding:5px;
+}
+.view_profile{
+	
+	color: #3E154C;
+	font-weight: bold;
+	font-size: small;
+}
+.view_each{
+	background-color: #AD8AB9;
+}
+th{
+	background-color: black;
+	color: white;
+}
+	#head{
+		text-align: right;
+	}
+	#profile{
+		background-color: #CCCCCC;
+		text-align: left;
+		border:hidden;
+		border-radius: 10px;
+		padding: 10px;
+	}
+	input{
+		border-radius: 3px;
+		padding: 3px;
+		font-family: sans-serif;
+	}
+
+	#add{
+		background-color: #A879B9;
+		border-color: #673F75;
+		border-width: 1px;
+		padding:5px;
+		font-family: sans-serif;
+	}
